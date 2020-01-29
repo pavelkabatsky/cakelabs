@@ -1,0 +1,19 @@
+.header {
+    background-color: #fff;
+    padding: 24px 16px;
+}
+.linkItems {
+    display: flex;
+}
+.linkItems a {
+    margin-right: 24px;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 16px;
+    text-transform: uppercase;
+    color: #000;
+}
+.linkItems a:hover {
+    color: purple;
+}
